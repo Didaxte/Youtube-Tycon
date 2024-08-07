@@ -10,6 +10,8 @@ public class Loading : MonoBehaviour
 
     public GameObject loadingScreen;
 
+   
+
     // Start is called before the first frame update
     void Start()
     {
@@ -27,4 +29,6 @@ public class Loading : MonoBehaviour
         loadingScreen.SetActive(true);
         SceneManager.LoadScene(loadLevel); 
     }
+
+     
 }

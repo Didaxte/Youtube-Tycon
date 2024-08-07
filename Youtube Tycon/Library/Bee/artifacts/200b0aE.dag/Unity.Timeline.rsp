@@ -120,6 +120,15 @@
 -define:PUN_2_0_OR_NEWER
 -define:PUN_2_OR_NEWER
 -define:PUN_2_19_OR_NEWER
+-define:MIRROR
+-define:MIRROR_79_OR_NEWER
+-define:MIRROR_81_OR_NEWER
+-define:MIRROR_82_OR_NEWER
+-define:MIRROR_83_OR_NEWER
+-define:MIRROR_84_OR_NEWER
+-define:MIRROR_85_OR_NEWER
+-define:MIRROR_86_OR_NEWER
+-define:MIRROR_89_OR_NEWER
 -define:TIMELINE_FRAMEACCURATE
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
@@ -345,6 +354,7 @@
 -r:"Library/PackageCache/com.unity.collab-proxy@2.4.4/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@2.4.4/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@2.4.4/Lib/Editor/PlasticSCM/unityplastic.dll"
+-r:"Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
